@@ -1,0 +1,3 @@
+[submodule "haystack_dbstore/chroma-haystack"]
+	path = haystack_dbstore/chroma-haystack
+	url = https://github.com/kkang2097/chroma-haystack.git
